@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/binhnguyen_portfolio/static/css/main.ca724739.css",
-    "main.js": "/binhnguyen_portfolio/static/js/main.475390d9.js",
+    "main.js": "/binhnguyen_portfolio/static/js/main.b3916127.js",
     "static/css/64.bba8fa55.chunk.css": "/binhnguyen_portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/binhnguyen_portfolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/binhnguyen_portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -22,7 +22,7 @@
     "index.html": "/binhnguyen_portfolio/index.html",
     "static/media/talksCardBack.svg": "/binhnguyen_portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.ca724739.css.map": "/binhnguyen_portfolio/static/css/main.ca724739.css.map",
-    "main.475390d9.js.map": "/binhnguyen_portfolio/static/js/main.475390d9.js.map",
+    "main.b3916127.js.map": "/binhnguyen_portfolio/static/js/main.b3916127.js.map",
     "64.bba8fa55.chunk.css.map": "/binhnguyen_portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/binhnguyen_portfolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/binhnguyen_portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.ca724739.css",
-    "static/js/main.475390d9.js"
+    "static/js/main.b3916127.js"
   ]
 }
